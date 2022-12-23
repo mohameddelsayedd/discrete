@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\disceret\disceret\bin\Debug\disceret.exe.config
+C:\Users\moham\source\repos\disceret\disceret\bin\Debug\disceret.exe
+C:\Users\moham\source\repos\disceret\disceret\bin\Debug\disceret.pdb
+C:\Users\moham\source\repos\disceret\disceret\obj\Debug\disceret.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\disceret\disceret\obj\Debug\disceret.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\disceret\disceret\obj\Debug\disceret.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\disceret\disceret\obj\Debug\disceret.exe
+C:\Users\moham\source\repos\disceret\disceret\obj\Debug\disceret.pdb
